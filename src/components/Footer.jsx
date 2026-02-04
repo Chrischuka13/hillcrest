@@ -30,9 +30,9 @@ const Footer = () => {
                 </div>
                 <div className='flex flex-col'>
                     <h5 className='text-neutral-400 font-semibold mb-2'>Socials</h5>
-                    <a href="#" className=' hover:text-gray-400 hover:cursor-pointer text-neutral-700 font-semibold mb-2'>Twitter(X)</a>
-                    <a href="#" className=' hover:text-gray-400 hover:cursor-pointer text-neutral-700 font-semibold mb-2'>Facebook</a>
-                    <a href="#" className=' hover:text-gray-400 hover:cursor-pointer text-neutral-700 font-semibold mb-2'>Instagram</a>
+                    <a href="#" className=' hover:text-gray-400 hover:cursor-pointer text-neutral-700 mb-2'>Twitter(X)</a>
+                    <a href="#" className=' hover:text-gray-400 hover:cursor-pointer text-neutral-700 mb-2'>Facebook</a>
+                    <a href="#" className=' hover:text-gray-400 hover:cursor-pointer text-neutral-700 mb-2'>Instagram</a>
                 </div>
             </div>
         </div>

@@ -1,0 +1,349 @@
+[
+    {
+      "id": "323 Herbert Macaulay Road",
+       "image": {
+            "home": "/images/house1.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/gcfc.png",
+         "name": "Michael Silva",
+         "focus": "Focused on city apartments and valuations."
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg",
+         "phone": "+1 415-555-0123"
+       },
+       "price": 315000,
+       "location": "323 Herbert Macaulay Road",
+       "square": "689 sq.ft",
+       "bedroom": "2 Bed",
+       "bathroom": "1 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This apartment in Herbert Macaulay Road offers finished basement, balcony with views, and two-car garage. Designed for comfort and convenience with modern finishes throughout."
+    },
+
+    {
+      "id": "360 Herbert Macaulay Road",
+       "image": {
+            "home": "/images/house2.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/jhbgh.png",
+         "name": "Chinaza Mitchell",
+         "focus": "Focused on city apartments and valuations."
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg",
+         "phone": "+1 415-555-0123"
+       },
+       "price": 279000,
+       "location": "360 Herbert Macaulay Road",
+       "square": "527 sq.ft",
+       "bedroom": "1 Bed",
+       "bathroom": "1 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This single-family offers renovated kitchen, hardwood floors, and spacious deck. Designed for comfort and convenience with modern finishes throughout."
+    },
+
+    {
+      "id": "117 Alagomeji ave.",
+       "image": {
+            "home": "/images/house3.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/vghcg.png",
+         "name": "David Johnson",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 646000,
+       "location": "117 Alagomeji ave.",
+       "square": "689 sq.ft",
+       "bedroom": "3 Bed",
+       "bathroom": "2 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This apartment at Alagomeji offers balcony with views, spacious deck, and walk-in closets. Designed for comfort and convenience with modern finishes throughout."
+    },
+    
+    {
+      "id": "271 apple str. Alagomeji",
+       "image": {
+            "home": "/images/house4.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/kjnh.png",
+         "name": "Augusta Elimieleife",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 530000,
+       "location": "271 apple str. Alagomeji",
+       "square": "603 sq.ft",
+       "bedroom": "2 Bed",
+       "bathroom": "1 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc":"This apartment at Alagomeji offers balcony with views, spacious deck, and walk-in closets. Designed for comfort and convenience with modern finishes throughout."
+    },
+
+    {
+      "id": "17 Harvey Road, yaba",
+       "image": {
+            "home": "/images/house5.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/nhv.png",
+         "name": "Promise Mmata",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 189000,
+       "location": "17 Harvey Road, yaba",
+       "square": "388 sq.ft",
+       "bedroom": "1 Bed",
+       "bathroom": "1 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This apartment at Harvey Road offers finished basement, balcony with views, and two-car garage. Designed for comfort and convenience with modern finishes throughout."
+    },
+    {
+      "id": "118 University road, Akoka",
+       "image": {
+            "home": "/images/house6.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/kjbjhb.png",
+         "name": "Abimbola William",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 659000,
+       "location": "118 University road, Akoka",
+       "square": "689 sq.ft",
+       "bedroom": "3 Bed",
+       "bathroom": "2 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This apartment in University Road offers finished basement, balcony with views, and two-car garage. Designed for comfort and convenience with modern finishes throughout."
+    },
+
+    {
+      "id": "71 market road, Bariga",
+       "image": {
+            "home": "/images/house7.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/hggfc.png",
+         "name": "Bola Olat",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+         
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 372000,
+       "location": "71 market road, Bariga",
+       "square": "915 sq.ft",
+       "bedroom": "3 Bed",
+       "bathroom": "2 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This apartment at Market Road offers finished basement, balcony with views, and two-car garage. Designed for comfort and convenience with modern finishes throughout."
+    },
+
+    {
+      "id": "18 market str, Shomolu",
+       "image": {
+            "home": "/images/house8.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/njkbuhv.png",
+         "name": "Azeez Opaleye",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 257000,
+       "location": "18 market str, Shomolu",
+       "square": "2322 sq.ft",
+       "bedroom": "3 Bed",
+       "bathroom": "2 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This apartment at Market Street offers finished basement, balcony with views, and two-car garage. Designed for comfort and convenience with modern finishes throughout."
+    },
+
+    {
+      "id": "100 bajulaye comp. Bajulaye",
+       "image": {
+            "home": "/images/house9.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/jkjhv.png",
+         "name": "Olivia Chen",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 315000,
+       "location": "100 bajulaye comp. Bajulaye",
+       "square": "1890 sq.ft",
+       "bedroom": "3 Bed",
+       "bathroom": "3 Bath",
+       "status": "for-sale",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This single-family offers renovated kitchen, hardwood floors, and spacious deck. Designed for comfort and convenience with modern finishes throughout."
+    },
+
+    {
+      "id": "99 temple road Bariga",
+       "image": {
+            "home": "/images/house10.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/njkbuhv.png",
+         "name": "Azeez Opaleye",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 259000,
+       "location": "99 temple road Bariga",
+       "square": "1550 sq.ft",
+       "bedroom": "2 Bed",
+       "bathroom": "2 Bath",
+       "status": "coming-soon",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This single-family offers renovated kitchen, hardwood floors, and spacious deck. Designed for comfort and convenience with modern finishes throughout."
+    },
+    {
+      "id": "7 johnson str Gbagada",
+       "image": {
+            "home": "/images/house11.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/nhv.png",
+         "name": "Promise Mmata",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 515000,
+       "location": "7 johnson str Gbagada",
+       "square": "2350 sq.ft",
+       "bedroom": "3 Bed",
+       "bathroom": "2 Bath",
+       "status": "coming-soon",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This apartment at Gbagada offers balcony with views, spacious deck, and walk-in closets. Designed for comfort and convenience with modern finishes throughout."
+    },
+
+    {
+      "id": "101 Gbagada phase II",
+       "image": {
+            "home": "/images/house12.jpg",
+            "size": "/images/Corners In@2x.png",
+            "bed": "/images/Bed@2x.png",
+            "bath": "/images/Bathtub@2x.png"
+       },
+       "agent": {
+         "photo": "/images/kjnh.png",
+         "name": "Augusta Elimieleife",
+         "focus": "Focused on city apartments and valuations.",
+         "phone": "+1 415-555-0123"
+       },
+       "gallery": {
+         "firstphoto": "/images/pexels-emrecan-2079234.jpg",
+         "secondphoto": "/images/pexels-curtis-adams-1694007-6835141.jpg",
+         "thirdphoto": "/images/pexels-asphotography-94865.jpg"
+       },
+       "price": 650000,
+       "location": "101 Gbagada phase II",
+       "square": "2600 sq.ft",
+       "bedroom": "4 Bed",
+       "bathroom": "4 Bath",
+       "status": "sold",
+       "map": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d7916.7710492319475!2d3.3682441029808556!3d6.508354774331121!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sng!4v1769630456547!5m2!1sen!2sng",
+       "desc": "This single-family offers renovated kitchen, hardwood floors, and spacious deck. Designed for comfort and convenience with modern finishes throughout." 
+    }
+    
+]

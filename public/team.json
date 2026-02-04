@@ -1,0 +1,84 @@
+[
+    {
+       "id": "Chinaza Mitchell",
+      "image": "/images/jhbgh.png",
+       "name": "Chinaza Mitchell",
+       "role": "Senior Realtor",
+       "email": "chinaza.mitchell@example.com",
+       "phone": "+1 415-555-0123",
+       "desc": "Chinaza is known for her calm approach and clear guidance, helping families and first-time buyers feel confident in every step."
+    },
+    {
+       "id": "David Johnson",
+       "image": "/images/vghcg.png",
+       "name": "David Johnson",
+       "role": "Realtor",
+       "email": "david.Johnson@example.com",
+       "phone": "+1 212-555-0198",
+       "desc": "David specializes in family homes and new developments, guiding clients with straightforward advice and local insight."
+    },
+    {
+      "id": "Michael Silva",
+       "image": "/images/gcfc.png",
+       "name": "Michael Silva",
+       "role": "Associate Realtor",
+       "email": "chijioke.silva@example.com",
+       "phone": "+1 617-555-0175",
+       "desc": "Focused on city apartments and valuations, Michael brings a sharp eye for detail and clear market knowledge."
+    },
+    {
+      "id": "Bola Olat",
+       "image": "/images/kjnh.png", 
+       "name": "Bola Olat", 
+       "role": "Senior Realtor",
+       "email": "bola.olat@example.com", 
+       "phone": "+1 415-555-0123",
+       "desc": "Bola is known for her calm approach and clear guidance, helping families and first-time buyers feel confident in every step."
+    },
+    {
+      "id": "Promise Mmata",
+       "image": "/images/nhv.png",
+       "name": "Promise Mmata",
+       "role": "Associate Realtor",
+       "email": "promise.mmata@example.com",
+       "phone": "+1 617-555-0175",
+       "desc": "Focused on city apartments and valuations, Promise brings a sharp eye for detail and clear market knowledge."
+    },
+    {
+      "id": "Abimbola William",
+       "image": "/images/kjbjhb.png",
+       "name": "Abimbola William",
+       "role": "Realtor",
+       "email": "abimbola.willy@example.com",
+       "phone": "+1 212-555-0198",
+       "desc": "Abimbola specializes in family homes and new developments, guiding clients with straightforward advice and local insight."
+    },
+    {
+       "id": "Augusta Elimieleife",
+       "image": "/images/hggfc.png",
+       "name": "Augusta Elimieleife",
+       "role": "Realtor",
+       "email": "augusta.elimieleife@example.com",
+       "phone": "+1 310-555-0142",
+       "desc": "Augusta connects buyers with the right neighborhoods, known for her patient style and practical guidance."
+    },
+    {
+      "id": "Azeez Opaleye",
+       "image": "/images/njkbuhv.png",
+       "name": "Azeez Opaleye",
+       "role": "Senior Realtor",
+       "email": "azeez.opaleye@example.com",
+       "phone": "+1 646-555-0136",
+       "desc": "Azeez has deep expertise in investment properties and a steady hand in complex transactions."
+    },
+    {
+       "id": "Olivia Chen",
+       "image": "/images/jkjhv.png",
+       "name": "Olivia Chen",
+       "role": "Realtor",
+       "email": "olivia.chen@example.com",
+       "phone": "+1 202-555-0167",
+       "desc": "Olivia works closely with first-time buyers, making the process simple and transparent from start to finish."
+    }
+    
+]

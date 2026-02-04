@@ -1,0 +1,59 @@
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+body {
+  font-family: "Manrope", sans-serif;
+}
+
+nav {
+  font-family: poppins;
+}
+
+
+
+
+button {
+  border-radius: 8px;
+  padding: 0.4em 1.4em;
+  background-color: none;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+  transition-duration: 900ms;
+   transform: scale(0.95);
+   transition: transform 0.5s ease-in;
+   
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+   
+}
+
+/* h1{
+ font-size: 48px;
+}
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 26px;
+}
+h4{
+  font-size: 20px;
+}
+h5{
+  font-size: 16px;
+}
+h6{
+  font-size: 14px;
+} */
+

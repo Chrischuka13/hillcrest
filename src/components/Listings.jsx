@@ -14,7 +14,7 @@ const Listings = () => {
   return (
     <main>
         <section className='w-11/12 container mx-auto py-16'>
-            <div className='flex justify-between mb-12'>
+            <div className='flex justify-between items-center mb-12'>
                 <h3 className='font-medium text-[32px]'>Recent Listings</h3>
                 <Link to='/listings'><button className='border border-black'>View all</button></Link>
             </div>

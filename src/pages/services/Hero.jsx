@@ -10,13 +10,15 @@ const Hero = () => {
 
   return (
     <main>
-        <section className='bg-[linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(/images/jbvhv.png)] bg-cover bg-center h-screen bg-fixed flex items-end justify-center'>
+        <section className='relative'>
             <div className='w-11/12 container mx-auto py-10'>
-                <div className='max-w-120 sm:max-w-125 text-white '>
+                <div class="absolute inset-0 bg-black/30 rounded-lg"></div>
+                <div className='md:max-w-120 text-white absolute bottom-0'>
                     <h6 className='md:text-[16px] font-medium mb-4'>OUR SERVICES</h6>
-                    <h1 className='text-4xl lg:text-[48px] font-medium mb-8 text-balance'>What Hillcrest Realty Can Do for You</h1>
+                    <h1 className='text-4xl lg:text-[48px]  font-medium mb-8 '>What Hillcrest Realty Can Do for You</h1>
                 </div>
             </div>
+            <img src="/images/jbvhv.png" alt="" className='w-full object-cover h-129.25'/>
         </section>
 
         <section className='w-11/12 container mx-auto py-24'>

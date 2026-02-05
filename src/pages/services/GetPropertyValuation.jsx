@@ -62,10 +62,10 @@ const GetPropertyValuation = () => {
   return (
     <main>
       <NavBar/>
-      <section className='bg-[linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(/images/pexels-emrecan-2079234.jpg)] bg-cover bg-center h-screen bg-fixed flex items-end justify-center'>
+      <section className='bg-[linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(/images/pexels-emrecan-2079234.jpg)] bg-center bg-cover min-h-screen flex items-end justify-center'>
         <div className='w-11/12 container mx-auto py-10 sm:flex justify-between relative'>
           <div className='max-w-120 sm:max-w-90 text-white '>  
-            <h1 className='text-4xl lg:text-[48px] font-medium mb-8'>Know what your home is worth</h1>
+            <h1 className='text-4xl lg:text-[46px] font-medium mb-8'>Know what your home is worth</h1>
             <Link to='/contact'><button className='border border-white'>Get your valuation</button></Link>
           </div>  
         </div>

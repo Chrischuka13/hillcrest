@@ -19,7 +19,7 @@ const AboutUs = () => {
                 </div>
                 <div className='lg:w-1/2'>
                     <p className='text-[18px] mb-4 text-balance'>A new home marks a turning point. Maybe you’re upsizing, downsizing, or just starting out. Wherever you are, the details can feel daunting. That’s where we come in. Hillcrest Realty handles the parts that cause stress—pricing, marketing, paperwork—so you can focus on what’s next. <br /> <br /> Our team listens first, explains clearly, and keeps things steady until the keys are in your hand.</p>
-                    <Link to='about'><button className='border border-neutral-400'>About</button></Link>
+                    <Link to='/about'><button className='border border-neutral-400'>About</button></Link>
                 </div>
             </div>
 

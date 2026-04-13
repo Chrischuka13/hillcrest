@@ -34,7 +34,7 @@ const NavBar = () => {
                 <div className="lg:hidden w-11/12 container mx-auto bg-white text-[#0A0A0A] m-2 text-start font-medium  h-screen md:h-full">
                     <Link to='/services' className="block text-3xl hover:text-gray-400 hover:cursor-pointer mb-4">Services</Link>
 
-                    <Link to='/listings' className="block text-3xl hover:text-gray-400 hover:cursor-pointer mb-4">Listings</Link>
+                   <Link nk to='/listings' className="block text-3xl hover:text-gray-400 hover:cursor-pointer mb-4">Listings</Link>
 
                     <Link to='/about' className="block text-3xl hover:text-gray-400 hover:cursor-pointer mb-4">About</Link>
 
